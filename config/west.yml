@@ -11,6 +11,6 @@ manifest:
       import: app/west.yml
     - name: zmk-nice-oled
       remote: copocaneta
-      revision: ebaf5818c7d0b4c2657a202aca4a565231eade1c
+      revision: 1bde1b5ced006a3d5514f7c2eeabf94fa6eee5c3
   self:
     path: config
